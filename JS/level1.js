@@ -33,4 +33,4 @@ function renderBooks() {
 
 }
 
-renderBooks
+renderBooks();
